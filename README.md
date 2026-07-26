@@ -21,7 +21,7 @@ Contributors and feedback are always welcome!
 
 ### DEMOGL
 A growing portfolio of visual demos documenting my hands-on learning journey and experiments with OpenGL.
-
+* Check it out [here](https://github.com/EnderLove/DEMOGL)
 ---
 ## about me
 * discord: [EnderLv](https://discord.com/users/544338986051567628)
